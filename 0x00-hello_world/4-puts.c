@@ -1,5 +1,7 @@
 #include <stdio.h>
-/* main- A program that prints a line
+/* 
+ * main- A program that prints a line
+ *
  * return 0 (success)
  * */
 int main(void){
