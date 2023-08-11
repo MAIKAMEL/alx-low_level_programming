@@ -8,9 +8,9 @@ int main(void)
 {
 	int i;
 	char c;
-	double d;
+	float d;
 	printf("size of int : %zu byte(s)\n", sizeof(i));
 	printf("size of char : %zu byte(s)\n", sizeof(c));
-	printf("size of double : %zu byte(s)\n", sizeof(d));
+	printf("size of float : %zu byte(s)\n", sizeof(d));
 	return (0);
 }
