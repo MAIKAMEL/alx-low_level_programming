@@ -9,8 +9,8 @@ int main(void)
 	int i;
 	char c;
 	double d;
-	printf("size of int : %lu\n", (unsigned long)sizeof(i));
-	printf("size of char : %lu\n", (unsigned long)sizeof(c));
-	printf("size of double : %lu\n", (unsigned long)sizeof(d));
+	printf("size of int : %zu byte(s)\n", sizeof(i));
+	printf("size of char : %zu byte(s)\n", sizeof(c));
+	printf("size of double : %zu byte(s)\n", sizeof(d));
 	return (0);
 }
