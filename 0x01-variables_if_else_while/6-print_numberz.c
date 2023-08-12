@@ -7,12 +7,11 @@
  */
 int main(void)
 {
-	int digit = 0;
-
-	while (digit <= 9)
+	int i
+		;
+	for (i = '0'; i <= 9; i++)
 	{
-		putchar(digit);
-		digit++;
+		putchar(i);
 	}
 	printf("\n");
 	return (0);
