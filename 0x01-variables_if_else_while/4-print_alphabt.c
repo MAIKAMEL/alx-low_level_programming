@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Description : print lowercase
- * Return : return(0)
+ * Description: print all lowercase alphabit except e and q
+ * Return: return(0)
  */
 int main(void)
 {
