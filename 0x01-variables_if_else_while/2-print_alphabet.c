@@ -1,15 +1,17 @@
 #include <stdio.h>
-/*
+/**
  * main - get the alphapet lowercase
+ * DEscription: print all alphapet lowercase
  * Return: return(0)
  */
 int main(void)
 {
-	int i;
+	char c = 'a';
 
-	for (i = 97; i < 122; i++)
+	while (c <= 'z')
 	{
-		printf("%c", i);
+		putchar(c);
+		c++;
 	}
 	return (0);
 }
