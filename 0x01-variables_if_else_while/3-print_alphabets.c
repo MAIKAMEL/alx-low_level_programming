@@ -19,6 +19,6 @@ int main(void)
 		putchar(upper);
 		upper++;
 	}
-	putchar("\n");
+	printf("\n");
 	return (0);
 }
