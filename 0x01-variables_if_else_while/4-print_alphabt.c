@@ -11,7 +11,6 @@ int main(void)
 	while (lower <= 'z')
 	{
 		putchar(lower);
-		printf("\n");
 		lower++;
 	}
 	printf("\n");
