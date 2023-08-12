@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  * Description: lowecase in new line except e and q letter 
- * Retrun: return 0
+ * Return: return 0
  */
 int main(void)
 {
