@@ -24,4 +24,5 @@ int print_sign(int n)
 		printf("-");
 		flag = -1;
 	}
+	return flag;
 }
