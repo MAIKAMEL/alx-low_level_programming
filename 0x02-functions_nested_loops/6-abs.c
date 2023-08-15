@@ -2,14 +2,14 @@
 /**
  * _abs - Entry point
  * Description: print all lowercase alphabit except e and q
- * @int: it is an input
+ * @n: it is an input
  * Return: return(0)
  */
-int _abs(int)
+int _abs(int n)
 {
-	if (int < 0)
+	if (n < 0)
 	{
-		int = (-1) * int;
+		n = (-1) * n;
 	}
-	return (int);
+	return (n);
 }
