@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - Entry point
+ * print_alphabet  - Entry point
  * Description: print all lowercase alphabit except e and q
  * Return: return(0)
  */
