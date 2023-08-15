@@ -2,6 +2,7 @@
 /**
  * _islower - Entry point
  * Description: print all lowercase alphabit except e and q
+ * @c: it is an input
  * Return: return(0)
  */
 int _islower(int c)
