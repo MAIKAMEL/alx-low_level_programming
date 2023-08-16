@@ -1,5 +1,3 @@
-printf("\n");
-
 #include "main.h"
 /**
  * add - Entry point
