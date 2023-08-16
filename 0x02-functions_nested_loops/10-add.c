@@ -8,7 +8,7 @@ printf("\n");
  * @a: it is an input
  * Return: return(0)
  */
-int add(int, int)
+int add(int a, int b)
 {
 	int sum;
 
