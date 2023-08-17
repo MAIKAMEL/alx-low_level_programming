@@ -3,6 +3,7 @@
  * print_diagonal - Entry point
  * Description: print all lowercase alphabit except e and q
  * @n: it is an input
+ * Return: return(0)
  */
 void print_diagonal(int n)
 {
