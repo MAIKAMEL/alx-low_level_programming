@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strspn( - Entry point
+ * _strspn - Entry point
  * Description: print all lowercase alphabit except e and q
  * @s: it is an input
  * @accept: it is an input
