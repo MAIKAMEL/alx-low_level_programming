@@ -6,7 +6,6 @@
  * Description: print all lowercase alphabit except e and q
  * @a: it is an input
  * @size: it is an input
- * Return: return(0)
  */
 void print_diagsums(int *a, int size)
 {
