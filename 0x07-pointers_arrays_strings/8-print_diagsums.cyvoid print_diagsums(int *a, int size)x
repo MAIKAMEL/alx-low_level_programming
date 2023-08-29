@@ -1,0 +1,11 @@
+#include "main.h"
+
+/**
+ * *_memset - Entry point
+ * Description: print all lowercase alphabit except e and q
+ * @s: it is an input
+ * @b: it is an input
+ * @n: it is an input
+ * Return: return(0)
+ */
+void print_diagsums(int *a, int size)
