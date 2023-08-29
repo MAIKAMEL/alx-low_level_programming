@@ -3,7 +3,7 @@
 /**
  * *_strstr - Entry point
  * Description: print all lowercase alphabit except e and q
- * @haystack,: it is an input
+ * @haystack: it is an input
  * @needle: it is an input
  * Return: return(0)
  */
