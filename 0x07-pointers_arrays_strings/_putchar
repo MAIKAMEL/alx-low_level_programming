@@ -1,0 +1,13 @@
+#include <unistd.h>
+
+/**
+ * _putchar - write the char on stdout
+ * @c : char to print 
+ * Description: print all lowercase alphabit except e and q
+ * Return: return(0)
+ */
+
+int _putchar(char c)
+{
+	return (write(1, &c, 1));
+}
