@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _islower - Entry point
+ * *_memset - Entry point
  * Description: print all lowercase alphabit except e and q
  * @s: it is an input
  * @b: it is an input
