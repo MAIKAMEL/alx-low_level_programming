@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
  * print_diagsums - Entry point
@@ -6,6 +7,7 @@
  * @a: it is an input
  * @size: it is an input
  */
+
 void print_diagsums(int *a, int size)
 {
 	int i; s1 = 0, s2 = 0;
