@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * *_memset - Entry point
+ * print_chessboard - Entry point
  * Description: print all lowercase alphabit except e and q
  * @a: it is an input
  * Return: return(0)
