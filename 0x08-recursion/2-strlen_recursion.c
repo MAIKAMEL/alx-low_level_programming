@@ -4,6 +4,7 @@
  * _strlen_recursion - Entry point
  * Description:pinter to string
  * @s: it is an input
+ * Return: n
  */
 int _strlen_recursion(char *s)
 {
