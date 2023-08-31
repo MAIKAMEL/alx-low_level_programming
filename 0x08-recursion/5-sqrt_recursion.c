@@ -15,10 +15,10 @@ int _sqrt_recursion(int n)
 
 
 /**
- * _sqrt_recursion - Entry point
+ * square - Entry point
  * Description:pinter to string
  * @n: it is an input
- * @n: it is an input
+ * @val: it is an input
  * Return: int
  */
 int square(int n, int val)
