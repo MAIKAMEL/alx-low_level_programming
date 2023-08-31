@@ -3,7 +3,7 @@
 /**
  * factorial - Entry point
  * Description:pinter to string
- * @c: it is an input
+ * @n: it is an input
  * Return: int n
  */
 int factorial(int n)
