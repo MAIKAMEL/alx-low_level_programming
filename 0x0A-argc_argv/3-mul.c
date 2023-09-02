@@ -7,7 +7,7 @@
  * @argv: list
  * Return: return(0)
  */
-int main(int argc, char const *argv[])
+int main(int argc, char *argv[])
 {
 	int sum;
 
