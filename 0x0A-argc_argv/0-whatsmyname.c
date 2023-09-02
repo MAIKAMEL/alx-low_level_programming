@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- * @argc int
+ * @argc: int
  * @argv: list
  * Return: return(0)
  */
