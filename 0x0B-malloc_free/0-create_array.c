@@ -2,6 +2,7 @@
 
 /**
  * *create_array: creates an array of char
+ * Description: initialize with spesific char
  * @size: size of array
  * @c: char to inintialize
  * Return: pointer to array or null
