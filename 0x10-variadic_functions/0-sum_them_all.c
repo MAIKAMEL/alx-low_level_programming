@@ -1,23 +1,24 @@
 #include "variadic_functions.h"
-#include <stdarg.h>
 
 /**
  * sum_them_all - sum varaibles arguments
  * @n: number of argumnet
  * @...: the in teger to sum
+ *
  * Return: sum of integer
  */
+
 int sum_them_all(const unsigned int n, ...)
 {
+	int s = 0, i = n;
+
 	va_list = ap;
-	unsigned in ti, sum = 0;
 
+	if (!n)
+		return (0);
 	va_start(ap, n);
-
-	for (i = 0; i < n; i++)
-		sum += va_arg(ap, int);
-
+	while (i--)
+		s += va_arg(ap, int);
 	va_end(ap);
-
-	return (sum);
+	return (s);
 }
