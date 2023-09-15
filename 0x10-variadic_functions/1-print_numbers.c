@@ -4,7 +4,6 @@
  *print_numbers - print numbers follwoed by a new lines
  *@separator: separator between two numbers
  *@n: the number of parameters
- *@...: a varaible number of parameter
  *Return: if n = 0 return 0, else return the sum
 */
 
